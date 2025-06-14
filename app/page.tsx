@@ -37,8 +37,8 @@ export default function HomePage() {
                 </span>
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Here's my exact tech stack, process, and how I go from idea to
-                software without getting stuck in tutorial hell.
+                Here&apos;s my exact tech stack, process, and how I go from idea
+                to software without getting stuck in tutorial hell.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -72,8 +72,8 @@ export default function HomePage() {
       <footer className="border-t bg-gray-50 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-gray-600">
-            &copy; 2024 Founder Engineer. Built with the same stack I'm teaching
-            you.
+            &copy; 2024 Founder Engineer. Built with the same stack I&apos;m
+            teaching you.
           </p>
         </div>
       </footer>
